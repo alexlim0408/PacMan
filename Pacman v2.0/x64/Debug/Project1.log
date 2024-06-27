@@ -1,0 +1,6 @@
+﻿  Pacman v2.0.cpp
+C:\Users\user\Documents\UTAR\Degree\Year 2\Y2T1\Fundamentals of Programming\Assignment\Project File\Pacman v2.0\Pacman v2.0.cpp(599,20): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\user\Documents\UTAR\Degree\Year 2\Y2T1\Fundamentals of Programming\Assignment\Project File\Pacman v2.0\Pacman v2.0.cpp(600,20): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\user\Documents\UTAR\Degree\Year 2\Y2T1\Fundamentals of Programming\Assignment\Project File\Pacman v2.0\Pacman v2.0.cpp(601,20): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\user\Documents\UTAR\Degree\Year 2\Y2T1\Fundamentals of Programming\Assignment\Project File\Pacman v2.0\Pacman v2.0.cpp(602,20): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+  Project1.vcxproj -> C:\Users\user\Documents\UTAR\Degree\Year 2\Y2T1\Fundamentals of Programming\Assignment\Project File\Pacman v2.0\x64\Debug\Project1.exe
